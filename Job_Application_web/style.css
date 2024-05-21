@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #ccc;
+}
+h1,span{
+    font-family:'Times New Roman', Times, serif 'Arial Narrow', Arial, sans-serif, sans-serif;
+    font-weight: bold;
+}
+.container{
+
+    max-width: 900px;
+    margin: 0 auto;
+}
+.apply-box{
+    max-width: 600px;
+    padding: 20px;
+    background-color: white;
+    margin: 0 auto;
+    margin-top: 50px;
+    box-shadow: 4px 3px 5px rgba(1, 1, 1 , 0.1);
+    border-radius: 10px;
+}
+.title-small{
+font-size: 20px;
+}
+.form-container{
+    margin-top: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,  1fr)) ;
+    gap: 20px;
+}
+.form-control{
+ display: flex;
+ flex-direction: column;
+}
+label{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+input , select , textarea{
+    padding: 6px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+
+}
+input:focus{
+    outline-color: red;
+}
+.button-container{
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+}
+
+button{
+    background-color: red;
+    border: 2px yellow solid;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 8px;
+    transition: 0.3s ease-in;
+}
+button:hover{
+    background-color: grey;
+    border: 2px solid blanchedalmond;
+    color: rgb(0, 0, 56);
+    cursor:pointer;
+    transition: 0.3s ease-out ;
+}
+.textarea-control{
+    grid-column: 1 / span 2 ;
+}
+.textarea-control textarea{
+    width: 100%;
+}
+@media(max-width: 460px) {
+    .textarea-control{
+        grid-column: 1 / span 1 ;
+    }
+};
