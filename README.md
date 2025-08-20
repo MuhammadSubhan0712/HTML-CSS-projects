@@ -1,4 +1,4 @@
-<h3>LIVE🔴 Preview Links  ╰┈➤</h3> <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTQyMXV3OTN5ZzVoc2p3dHQzZ2lrNmN6cGkwdDI5bnZyZmNnZTN1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WFmjWifrj9DJ50YaXj/giphy.gif" >
+<h3>LIVE🔴 Preview Links  ╰┈➤</h3> <img src="[https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaTQyMXV3OTN5ZzVoc2p3dHQzZ2lrNmN6cGkwdDI5bnZyZmNnZTN1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WFmjWifrj9DJ50YaXj/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRT1msNAEWNBvDyxv-1TTAms4WlXEfwIHAvFaSbOGkvval5vUfO5RYkyYChEtlUvil-SA&usqp=CAU)" >
 <a href="https://lambent-pastelito-9275a9.netlify.app/">Developer Landing Page</a> <br />
 <a href="https://profound-phoenix-887061.netlify.app/">Restaurant Web</a> <br />
 <a href="https://sage-faun-3b3236.netlify.app/">JavaScript short Documentation</a> <br />
