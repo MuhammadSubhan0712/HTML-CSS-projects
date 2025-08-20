@@ -1,4 +1,4 @@
-<h3>LIVE🔴 Preview Links  ╰┈➤</h3> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRT1msNAEWNBvDyxv-1TTAms4WlXEfwIHAvFaSbOGkvval5vUfO5RYkyYChEtlUvil-SA&usqp=CAU" >
+<img src="https://cdn-icons-gif.flaticon.com/16678/16678168.gif" >
 <a href="https://lambent-pastelito-9275a9.netlify.app/">Developer Landing Page</a> <br />
 <a href="https://profound-phoenix-887061.netlify.app/">Restaurant Web</a> <br />
 <a href="https://sage-faun-3b3236.netlify.app/">JavaScript short Documentation</a> <br />
