@@ -1,4 +1,4 @@
-<img width="300px" height="300px" src="https://cdn-icons-gif.flaticon.com/16678/16678168.gif" >
+<img width="100px" height="100px" src="https://cdn-icons-gif.flaticon.com/16678/16678168.gif" >
 <a href="https://lambent-pastelito-9275a9.netlify.app/">Developer Landing Page</a> <br />
 <a href="https://profound-phoenix-887061.netlify.app/">Restaurant Web</a> <br />
 <a href="https://sage-faun-3b3236.netlify.app/">JavaScript short Documentation</a> <br />
